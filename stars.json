@@ -1,15 +1,15 @@
 [
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 55513,
+    "stargazers_count": 55551,
     "open_issues_count": 2,
-    "forks_count": 5339
+    "forks_count": 5341
   },
   {
     "full_name": "oscafrica/open-source-challenge-2021",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 12
+    "stargazers_count": 34,
+    "open_issues_count": 1,
+    "forks_count": 13
   },
   {
     "full_name": "iulian-cenusa/frontend-mentor-interactive-pricing-component",
@@ -27,7 +27,7 @@
     "full_name": "bricewilson/Debugging-Sites-Using-Chrome-DevTools",
     "stargazers_count": 7,
     "open_issues_count": 1,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "MyloCarson/scss-boilerplate",
@@ -38,7 +38,7 @@
   {
     "full_name": "oscafrica/awesome-open-source",
     "stargazers_count": 14,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "tuvtran/project-based-learning",
-    "stargazers_count": 54532,
-    "open_issues_count": 111,
-    "forks_count": 8486
+    "stargazers_count": 54787,
+    "open_issues_count": 112,
+    "forks_count": 8509
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 9395,
+    "stargazers_count": 9400,
     "open_issues_count": 71,
-    "forks_count": 2003
+    "forks_count": 2005
   },
   {
     "full_name": "carbon-design-system/carbon",
-    "stargazers_count": 4544,
-    "open_issues_count": 460,
-    "forks_count": 1080
+    "stargazers_count": 4552,
+    "open_issues_count": 461,
+    "forks_count": 1085
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 67286,
-    "open_issues_count": 44,
+    "stargazers_count": 67354,
+    "open_issues_count": 46,
     "forks_count": 8793
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 113069,
+    "stargazers_count": 113158,
     "open_issues_count": 124,
-    "forks_count": 21641
+    "forks_count": 21660
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 25363,
+    "stargazers_count": 25368,
     "open_issues_count": 10,
-    "forks_count": 2692
+    "forks_count": 2695
   },
   {
     "full_name": "Vets-Who-Code/JAMstack-Curriculum",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 35969,
-    "open_issues_count": 295,
-    "forks_count": 1731
+    "stargazers_count": 35996,
+    "open_issues_count": 297,
+    "forks_count": 1734
   },
   {
     "full_name": "cferdinandi/reef",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 8437,
-    "open_issues_count": 20,
-    "forks_count": 2028
+    "stargazers_count": 8494,
+    "open_issues_count": 22,
+    "forks_count": 2052
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 10380,
-    "open_issues_count": 16,
-    "forks_count": 255
+    "stargazers_count": 10449,
+    "open_issues_count": 15,
+    "forks_count": 258
   },
   {
     "full_name": "chaincodelabs/bitcoin-curriculum",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 17009,
-    "open_issues_count": 49,
-    "forks_count": 4592
+    "stargazers_count": 17027,
+    "open_issues_count": 50,
+    "forks_count": 4594
   },
   {
     "full_name": "hendurhance/ui-ux",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "preactjs/preact",
-    "stargazers_count": 29670,
+    "stargazers_count": 29678,
     "open_issues_count": 233,
-    "forks_count": 1650
+    "forks_count": 1651
   }
 ]
