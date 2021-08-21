@@ -1,15 +1,33 @@
 [
   {
-    "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 55551,
+    "full_name": "micromata/awesome-css-learning",
+    "stargazers_count": 1604,
     "open_issues_count": 2,
-    "forks_count": 5341
+    "forks_count": 132
+  },
+  {
+    "full_name": "Takata21/Frontend-Mentor-Interactive-pricing-component",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "PawanJS/SimpleTraffic-basedPricing",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "thedaviddias/Front-End-Checklist",
+    "stargazers_count": 55595,
+    "open_issues_count": 2,
+    "forks_count": 5344
   },
   {
     "full_name": "oscafrica/open-source-challenge-2021",
-    "stargazers_count": 34,
-    "open_issues_count": 1,
-    "forks_count": 13
+    "stargazers_count": 35,
+    "open_issues_count": 2,
+    "forks_count": 14
   },
   {
     "full_name": "iulian-cenusa/frontend-mentor-interactive-pricing-component",
@@ -19,7 +37,7 @@
   },
   {
     "full_name": "Offroaders123/Smart-Text-Editor",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -61,27 +79,27 @@
   },
   {
     "full_name": "tuvtran/project-based-learning",
-    "stargazers_count": 54787,
-    "open_issues_count": 112,
-    "forks_count": 8509
+    "stargazers_count": 54852,
+    "open_issues_count": 113,
+    "forks_count": 8519
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 9400,
+    "stargazers_count": 9409,
     "open_issues_count": 71,
-    "forks_count": 2005
+    "forks_count": 2010
   },
   {
     "full_name": "carbon-design-system/carbon",
-    "stargazers_count": 4552,
-    "open_issues_count": 461,
-    "forks_count": 1085
+    "stargazers_count": 4558,
+    "open_issues_count": 460,
+    "forks_count": 1089
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 67354,
-    "open_issues_count": 46,
-    "forks_count": 8793
+    "stargazers_count": 67419,
+    "open_issues_count": 47,
+    "forks_count": 8797
   },
   {
     "full_name": "srhmendez/React_The-Complete-Guide",
@@ -91,15 +109,15 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 113158,
+    "stargazers_count": 113224,
     "open_issues_count": 124,
-    "forks_count": 21660
+    "forks_count": 21674
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 25368,
+    "stargazers_count": 25376,
     "open_issues_count": 10,
-    "forks_count": 2695
+    "forks_count": 2698
   },
   {
     "full_name": "Vets-Who-Code/JAMstack-Curriculum",
@@ -127,14 +145,14 @@
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 35996,
+    "stargazers_count": 36021,
     "open_issues_count": 297,
-    "forks_count": 1734
+    "forks_count": 1735
   },
   {
     "full_name": "cferdinandi/reef",
-    "stargazers_count": 746,
-    "open_issues_count": 6,
+    "stargazers_count": 748,
+    "open_issues_count": 7,
     "forks_count": 39
   },
   {
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 8494,
+    "stargazers_count": 8543,
     "open_issues_count": 22,
-    "forks_count": 2052
+    "forks_count": 2071
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 10449,
-    "open_issues_count": 15,
-    "forks_count": 258
+    "stargazers_count": 10496,
+    "open_issues_count": 17,
+    "forks_count": 259
   },
   {
     "full_name": "chaincodelabs/bitcoin-curriculum",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 0,
     "forks_count": 74
-  },
-  {
-    "full_name": "bitcoinbook/bitcoinbook",
-    "stargazers_count": 17027,
-    "open_issues_count": 50,
-    "forks_count": 4594
-  },
-  {
-    "full_name": "hendurhance/ui-ux",
-    "stargazers_count": 68,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "preactjs/preact",
-    "stargazers_count": 29678,
-    "open_issues_count": 233,
-    "forks_count": 1651
   }
 ]
