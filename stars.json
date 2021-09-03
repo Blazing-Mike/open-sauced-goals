@@ -1,15 +1,45 @@
 [
   {
-    "full_name": "frankiefab100/Blockchain-Development-Resources",
-    "stargazers_count": 20,
+    "full_name": "nambrot/blockchain-in-js",
+    "stargazers_count": 481,
+    "open_issues_count": 1,
+    "forks_count": 92
+  },
+  {
+    "full_name": "bcoin-org/bcoin",
+    "stargazers_count": 2553,
+    "open_issues_count": 168,
+    "forks_count": 704
+  },
+  {
+    "full_name": "browserify/browserify-handbook",
+    "stargazers_count": 4467,
+    "open_issues_count": 17,
+    "forks_count": 334
+  },
+  {
+    "full_name": "bitcoinjs/bitcoinjs-lib",
+    "stargazers_count": 4300,
+    "open_issues_count": 34,
+    "forks_count": 1654
+  },
+  {
+    "full_name": "chaincodelabs/lightning-curriculum",
+    "stargazers_count": 238,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 26
+  },
+  {
+    "full_name": "frankiefab100/Blockchain-Development-Resources",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 9
   },
   {
     "full_name": "zurichat/zc_plugin_dm",
     "stargazers_count": 7,
-    "open_issues_count": 209,
-    "forks_count": 26
+    "open_issues_count": 270,
+    "forks_count": 49
   },
   {
     "full_name": "gads-projects/gallery",
@@ -20,8 +50,8 @@
   {
     "full_name": "gads-projects/doc",
     "stargazers_count": 14,
-    "open_issues_count": 4,
-    "forks_count": 17
+    "open_issues_count": 3,
+    "forks_count": 18
   },
   {
     "full_name": "Zeesky-code/Snake-Game-Python",
@@ -56,24 +86,24 @@
   {
     "full_name": "BitcoinDesign/Guide",
     "stargazers_count": 181,
-    "open_issues_count": 27,
-    "forks_count": 46
+    "open_issues_count": 30,
+    "forks_count": 45
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 56730,
-    "open_issues_count": 1014,
-    "forks_count": 29801
+    "stargazers_count": 56774,
+    "open_issues_count": 1010,
+    "forks_count": 29815
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 18236,
+    "stargazers_count": 18292,
     "open_issues_count": 85,
-    "forks_count": 2608
+    "forks_count": 2622
   },
   {
     "full_name": "shainakrumme/open-source-handbook",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 1,
     "forks_count": 22
   },
@@ -85,15 +115,15 @@
   },
   {
     "full_name": "kentcdodds/beginners-guide-to-react",
-    "stargazers_count": 427,
+    "stargazers_count": 428,
     "open_issues_count": 0,
-    "forks_count": 316
+    "forks_count": 319
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 16472,
+    "stargazers_count": 16498,
     "open_issues_count": 19,
-    "forks_count": 19656
+    "forks_count": 19669
   },
   {
     "full_name": "KarenOk/abeg-app-clone",
@@ -105,35 +135,35 @@
     "full_name": "vicky002/AlgoWiki",
     "stargazers_count": 3832,
     "open_issues_count": 24,
-    "forks_count": 1076
+    "forks_count": 1075
   },
   {
     "full_name": "resetercss/reseter.css",
     "stargazers_count": 817,
-    "open_issues_count": 2,
-    "forks_count": 48
+    "open_issues_count": 4,
+    "forks_count": 49
   },
   {
     "full_name": "rwishavg/COVID-19-and-India",
     "stargazers_count": 2,
-    "open_issues_count": 2,
-    "forks_count": 3
+    "open_issues_count": 1,
+    "forks_count": 4
   },
   {
     "full_name": "jimmysong/programmingbitcoin",
-    "stargazers_count": 1134,
+    "stargazers_count": 1137,
     "open_issues_count": 83,
     "forks_count": 393
   },
   {
     "full_name": "lnbook/lnbook",
-    "stargazers_count": 1392,
-    "open_issues_count": 155,
-    "forks_count": 343
+    "stargazers_count": 1400,
+    "open_issues_count": 156,
+    "forks_count": 347
   },
   {
     "full_name": "micromata/awesome-css-learning",
-    "stargazers_count": 1615,
+    "stargazers_count": 1618,
     "open_issues_count": 2,
     "forks_count": 133
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 55842,
-    "open_issues_count": 3,
-    "forks_count": 5363
-  },
-  {
-    "full_name": "oscafrica/open-source-challenge-2021",
-    "stargazers_count": 41,
-    "open_issues_count": 1,
-    "forks_count": 17
-  },
-  {
-    "full_name": "iulian-cenusa/frontend-mentor-interactive-pricing-component",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Offroaders123/Smart-Text-Editor",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "bricewilson/Debugging-Sites-Using-Chrome-DevTools",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 13
   }
 ]
