@@ -25,7 +25,7 @@
   },
   {
     "full_name": "Bitcoin-ABC/bitcoin-abc",
-    "stargazers_count": 1009,
+    "stargazers_count": 1012,
     "open_issues_count": 59,
     "forks_count": 639
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 1775,
+    "stargazers_count": 1778,
     "open_issues_count": 18,
     "forks_count": 482
   },
@@ -56,18 +56,18 @@
   {
     "full_name": "bcoin-org/bcoin",
     "stargazers_count": 2556,
-    "open_issues_count": 168,
+    "open_issues_count": 167,
     "forks_count": 705
   },
   {
     "full_name": "browserify/browserify-handbook",
-    "stargazers_count": 4468,
+    "stargazers_count": 4469,
     "open_issues_count": 17,
     "forks_count": 334
   },
   {
     "full_name": "bitcoinjs/bitcoinjs-lib",
-    "stargazers_count": 4303,
+    "stargazers_count": 4304,
     "open_issues_count": 34,
     "forks_count": 1658
   },
@@ -86,19 +86,19 @@
   {
     "full_name": "zurichat/zc_plugin_dm",
     "stargazers_count": 9,
-    "open_issues_count": 255,
-    "forks_count": 57
+    "open_issues_count": 254,
+    "forks_count": 55
   },
   {
     "full_name": "gads-projects/gallery",
     "stargazers_count": 9,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "gads-projects/doc",
     "stargazers_count": 14,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 22
   },
   {
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "BitcoinDesign/Guide",
-    "stargazers_count": 184,
+    "stargazers_count": 186,
     "open_issues_count": 27,
     "forks_count": 45
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 56905,
-    "open_issues_count": 1010,
-    "forks_count": 29862
+    "stargazers_count": 56913,
+    "open_issues_count": 1013,
+    "forks_count": 29864
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 18439,
+    "stargazers_count": 18450,
     "open_issues_count": 88,
-    "forks_count": 2649
+    "forks_count": 2657
   },
   {
     "full_name": "shainakrumme/open-source-handbook",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 16544,
+    "stargazers_count": 16549,
     "open_issues_count": 20,
-    "forks_count": 19739
+    "forks_count": 19744
   },
   {
     "full_name": "KarenOk/abeg-app-clone",
