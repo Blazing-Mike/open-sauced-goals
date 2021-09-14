@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "bkrem/awesome-solidity",
+    "stargazers_count": 2369,
+    "open_issues_count": 0,
+    "forks_count": 322
+  },
+  {
+    "full_name": "getumbrel/umbrel",
+    "stargazers_count": 1051,
+    "open_issues_count": 232,
+    "forks_count": 152
+  },
+  {
+    "full_name": "Zfinix/arduino_projects",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "justinmoon/digital-cash",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 27,
     "forks_count": 49
   },
@@ -19,15 +37,15 @@
   },
   {
     "full_name": "glozow/bitcoin-notes",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "Bitcoin-ABC/bitcoin-abc",
-    "stargazers_count": 1012,
+    "stargazers_count": 1013,
     "open_issues_count": 59,
-    "forks_count": 639
+    "forks_count": 640
   },
   {
     "full_name": "raineorshine/solidity-by-example",
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 1778,
-    "open_issues_count": 18,
-    "forks_count": 482
+    "stargazers_count": 1786,
+    "open_issues_count": 19,
+    "forks_count": 484
   },
   {
     "full_name": "bitpay/bitcore",
@@ -55,21 +73,21 @@
   },
   {
     "full_name": "bcoin-org/bcoin",
-    "stargazers_count": 2556,
-    "open_issues_count": 167,
+    "stargazers_count": 2555,
+    "open_issues_count": 168,
     "forks_count": 705
   },
   {
     "full_name": "browserify/browserify-handbook",
-    "stargazers_count": 4469,
+    "stargazers_count": 4472,
     "open_issues_count": 17,
     "forks_count": 334
   },
   {
     "full_name": "bitcoinjs/bitcoinjs-lib",
-    "stargazers_count": 4304,
+    "stargazers_count": 4306,
     "open_issues_count": 34,
-    "forks_count": 1658
+    "forks_count": 1662
   },
   {
     "full_name": "chaincodelabs/lightning-curriculum",
@@ -79,14 +97,14 @@
   },
   {
     "full_name": "frankiefab100/Blockchain-Development-Resources",
-    "stargazers_count": 27,
+    "stargazers_count": 41,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 14
   },
   {
     "full_name": "zurichat/zc_plugin_dm",
     "stargazers_count": 9,
-    "open_issues_count": 254,
+    "open_issues_count": 256,
     "forks_count": 55
   },
   {
@@ -98,7 +116,7 @@
   {
     "full_name": "gads-projects/doc",
     "stargazers_count": 14,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 22
   },
   {
@@ -133,50 +151,32 @@
   },
   {
     "full_name": "BitcoinDesign/Guide",
-    "stargazers_count": 186,
-    "open_issues_count": 27,
+    "stargazers_count": 187,
+    "open_issues_count": 28,
     "forks_count": 45
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 56913,
-    "open_issues_count": 1013,
-    "forks_count": 29864
+    "stargazers_count": 56964,
+    "open_issues_count": 1024,
+    "forks_count": 29890
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 18450,
-    "open_issues_count": 88,
-    "forks_count": 2657
+    "stargazers_count": 18588,
+    "open_issues_count": 89,
+    "forks_count": 2676
   },
   {
     "full_name": "shainakrumme/open-source-handbook",
     "stargazers_count": 171,
     "open_issues_count": 1,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "Tobijudah/tip-calculator",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "kentcdodds/beginners-guide-to-react",
-    "stargazers_count": 432,
-    "open_issues_count": 0,
-    "forks_count": 322
-  },
-  {
-    "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 16549,
-    "open_issues_count": 20,
-    "forks_count": 19744
-  },
-  {
-    "full_name": "KarenOk/abeg-app-clone",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
