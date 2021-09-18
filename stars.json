@@ -31,9 +31,9 @@
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 83,
-    "open_issues_count": 1,
-    "forks_count": 10
+    "stargazers_count": 99,
+    "open_issues_count": 2,
+    "forks_count": 14
   },
   {
     "full_name": "Bitcoin-Developers-Academy/learn-bitcoin-the-easy-way",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 2387,
+    "stargazers_count": 2395,
     "open_issues_count": 0,
-    "forks_count": 326
+    "forks_count": 331
   },
   {
     "full_name": "getumbrel/umbrel",
-    "stargazers_count": 1067,
-    "open_issues_count": 235,
+    "stargazers_count": 1073,
+    "open_issues_count": 238,
     "forks_count": 154
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-    "stargazers_count": 1792,
-    "open_issues_count": 6,
+    "stargazers_count": 1794,
+    "open_issues_count": 9,
     "forks_count": 485
   },
   {
     "full_name": "bitpay/bitcore",
-    "stargazers_count": 4115,
-    "open_issues_count": 341,
-    "forks_count": 1920
+    "stargazers_count": 4116,
+    "open_issues_count": 343,
+    "forks_count": 1921
   },
   {
     "full_name": "nambrot/blockchain-in-js",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "bcoin-org/bcoin",
-    "stargazers_count": 2556,
+    "stargazers_count": 2559,
     "open_issues_count": 169,
     "forks_count": 706
   },
   {
     "full_name": "browserify/browserify-handbook",
-    "stargazers_count": 4472,
+    "stargazers_count": 4471,
     "open_issues_count": 17,
     "forks_count": 334
   },
   {
     "full_name": "bitcoinjs/bitcoinjs-lib",
     "stargazers_count": 4307,
-    "open_issues_count": 34,
-    "forks_count": 1663
+    "open_issues_count": 35,
+    "forks_count": 1664
   },
   {
     "full_name": "chaincodelabs/lightning-curriculum",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "zurichat/zc_plugin_dm",
-    "stargazers_count": 9,
-    "open_issues_count": 257,
+    "stargazers_count": 10,
+    "open_issues_count": 256,
     "forks_count": 56
   }
 ]
