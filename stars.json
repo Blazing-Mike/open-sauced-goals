@@ -8,7 +8,7 @@
   {
     "full_name": "bitcoin-resources/bitcoin-resources.github.io",
     "stargazers_count": 26,
-    "open_issues_count": 31,
+    "open_issues_count": 26,
     "forks_count": 11
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15893,
+    "stargazers_count": 15901,
     "open_issues_count": 31,
-    "forks_count": 903
+    "forks_count": 904
   },
   {
     "full_name": "rust-cc/awesome-cryptography-rust",
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 17221,
-    "open_issues_count": 122,
-    "forks_count": 830
+    "stargazers_count": 17231,
+    "open_issues_count": 123,
+    "forks_count": 829
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22043,
+    "stargazers_count": 22049,
     "open_issues_count": 15,
     "forks_count": 1529
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 35134,
-    "open_issues_count": 43,
-    "forks_count": 5125
+    "stargazers_count": 35229,
+    "open_issues_count": 44,
+    "forks_count": 5141
   },
   {
     "full_name": "BlazeSoftware/atoms",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "milligram/milligram",
-    "stargazers_count": 9497,
+    "stargazers_count": 9499,
     "open_issues_count": 48,
-    "forks_count": 573
+    "forks_count": 575
   },
   {
     "full_name": "Asabeneh/JavaScript-for-Everyone",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 159,
+    "stargazers_count": 163,
     "open_issues_count": 4,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "Bitcoin-Developers-Academy/learn-bitcoin-the-easy-way",
-    "stargazers_count": 15,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 2489,
+    "stargazers_count": 2495,
     "open_issues_count": 0,
-    "forks_count": 351
+    "forks_count": 353
   }
 ]
