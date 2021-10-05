@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "dannydeezy/bitcoin-book",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "jonatack/bitcoin-stuff",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jonatack/bitcoin-development",
+    "stargazers_count": 120,
+    "open_issues_count": 3,
+    "forks_count": 26
+  },
+  {
     "full_name": "amycruz97/javascript-algorithms",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -8,7 +26,7 @@
   {
     "full_name": "bitcoin-resources/bitcoin-resources.github.io",
     "stargazers_count": 26,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 11
   },
   {
@@ -19,7 +37,7 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15901,
+    "stargazers_count": 15919,
     "open_issues_count": 31,
     "forks_count": 904
   },
@@ -31,15 +49,15 @@
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 17231,
-    "open_issues_count": 123,
+    "stargazers_count": 17255,
+    "open_issues_count": 120,
     "forks_count": 829
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22049,
+    "stargazers_count": 22087,
     "open_issues_count": 15,
-    "forks_count": 1529
+    "forks_count": 1532
   },
   {
     "full_name": "buycoinsresearch/lpmonitor",
@@ -67,14 +85,14 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 35229,
-    "open_issues_count": 44,
-    "forks_count": 5141
+    "stargazers_count": 35325,
+    "open_issues_count": 48,
+    "forks_count": 5166
   },
   {
     "full_name": "BlazeSoftware/atoms",
     "stargazers_count": 1501,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 113
   },
   {
@@ -91,8 +109,8 @@
   },
   {
     "full_name": "milligram/milligram",
-    "stargazers_count": 9499,
-    "open_issues_count": 48,
+    "stargazers_count": 9501,
+    "open_issues_count": 52,
     "forks_count": 575
   },
   {
@@ -109,7 +127,7 @@
   },
   {
     "full_name": "bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 11,
     "forks_count": 29
   },
@@ -133,19 +151,19 @@
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 163,
+    "stargazers_count": 166,
     "open_issues_count": 4,
     "forks_count": 23
   },
   {
     "full_name": "Bitcoin-Developers-Academy/learn-bitcoin-the-easy-way",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "Xel/Blockchain-stuff",
-    "stargazers_count": 2490,
+    "stargazers_count": 2493,
     "open_issues_count": 9,
     "forks_count": 346
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 7,
     "forks_count": 12
-  },
-  {
-    "full_name": "kayode0x/Apexwallet",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "vbuterin/pybitcointools",
-    "stargazers_count": 1201,
-    "open_issues_count": 82,
-    "forks_count": 806
-  },
-  {
-    "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 2495,
-    "open_issues_count": 0,
-    "forks_count": 353
   }
 ]
