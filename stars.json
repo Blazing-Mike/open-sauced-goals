@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "cryptocoinjs/coinkey",
+    "stargazers_count": 112,
+    "open_issues_count": 4,
+    "forks_count": 45
+  },
+  {
+    "full_name": "vbuterin/blogmaker",
+    "stargazers_count": 62,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "christopherjael/time-tracking-dashboard--solution",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "abiodunolunu/buy-coins-challenge",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "BlockchainCommons/Bitcoin-Standup-Scripts",
     "stargazers_count": 29,
     "open_issues_count": 7,
@@ -19,21 +43,21 @@
   },
   {
     "full_name": "jklepatch/eattheblocks",
-    "stargazers_count": 2178,
+    "stargazers_count": 2187,
     "open_issues_count": 86,
-    "forks_count": 1862
+    "forks_count": 1866
   },
   {
     "full_name": "btcontract/wallet",
-    "stargazers_count": 110,
-    "open_issues_count": 7,
+    "stargazers_count": 111,
+    "open_issues_count": 6,
     "forks_count": 62
   },
   {
     "full_name": "ethereum/wiki",
-    "stargazers_count": 13905,
+    "stargazers_count": 13906,
     "open_issues_count": 34,
-    "forks_count": 2514
+    "forks_count": 2515
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -62,7 +86,7 @@
   {
     "full_name": "bitcoin-resources/bitcoin-resources.github.io",
     "stargazers_count": 26,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 11
   },
   {
@@ -73,27 +97,27 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15947,
-    "open_issues_count": 31,
+    "stargazers_count": 15952,
+    "open_issues_count": 32,
     "forks_count": 908
   },
   {
     "full_name": "rust-cc/awesome-cryptography-rust",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 17360,
-    "open_issues_count": 124,
+    "stargazers_count": 17382,
+    "open_issues_count": 126,
     "forks_count": 839
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22205,
-    "open_issues_count": 16,
-    "forks_count": 1536
+    "stargazers_count": 22219,
+    "open_issues_count": 17,
+    "forks_count": 1539
   },
   {
     "full_name": "buycoinsresearch/lpmonitor",
@@ -121,19 +145,19 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 35544,
-    "open_issues_count": 55,
-    "forks_count": 5208
+    "stargazers_count": 35599,
+    "open_issues_count": 58,
+    "forks_count": 5217
   },
   {
     "full_name": "BlazeSoftware/atoms",
-    "stargazers_count": 1501,
+    "stargazers_count": 1502,
     "open_issues_count": 0,
     "forks_count": 113
   },
   {
     "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 0,
     "forks_count": 54
   },
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "milligram/milligram",
-    "stargazers_count": 9508,
-    "open_issues_count": 53,
-    "forks_count": 585
+    "stargazers_count": 9509,
+    "open_issues_count": 52,
+    "forks_count": 587
   },
   {
     "full_name": "Asabeneh/JavaScript-for-Everyone",
     "stargazers_count": 371,
     "open_issues_count": 0,
     "forks_count": 162
-  },
-  {
-    "full_name": "timothyylim/bitcoin-js-guide",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
-    "stargazers_count": 116,
-    "open_issues_count": 12,
-    "forks_count": 30
-  },
-  {
-    "full_name": "bitcoin-studio/bitcoin-test-wallets-generator",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "bitcoin-studio/Bitcoin-VirtualMachine",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 8
   }
 ]
