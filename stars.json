@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "yorkie/rust.js",
+    "stargazers_count": 143,
+    "open_issues_count": 4,
+    "forks_count": 8
+  },
+  {
+    "full_name": "Kannaj/node-knex-sample",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "jpantunes/awesome-cryptoeconomics",
+    "stargazers_count": 911,
+    "open_issues_count": 0,
+    "forks_count": 177
+  },
+  {
+    "full_name": "bitcoin-studio/LightningNespressoUI",
+    "stargazers_count": 3,
+    "open_issues_count": 8,
+    "forks_count": 1
+  },
+  {
     "full_name": "cryptocoinjs/coinkey",
     "stargazers_count": 112,
     "open_issues_count": 4,
@@ -25,7 +49,7 @@
   },
   {
     "full_name": "BlockchainCommons/Bitcoin-Standup-Scripts",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 7,
     "forks_count": 30
   },
@@ -43,21 +67,21 @@
   },
   {
     "full_name": "jklepatch/eattheblocks",
-    "stargazers_count": 2190,
+    "stargazers_count": 2209,
     "open_issues_count": 87,
-    "forks_count": 1873
+    "forks_count": 1878
   },
   {
     "full_name": "btcontract/wallet",
     "stargazers_count": 111,
     "open_issues_count": 6,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "ethereum/wiki",
-    "stargazers_count": 13908,
+    "stargazers_count": 13912,
     "open_issues_count": 34,
-    "forks_count": 2515
+    "forks_count": 2514
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -97,27 +121,27 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15955,
-    "open_issues_count": 31,
-    "forks_count": 909
+    "stargazers_count": 15966,
+    "open_issues_count": 33,
+    "forks_count": 915
   },
   {
     "full_name": "rust-cc/awesome-cryptography-rust",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 17386,
-    "open_issues_count": 124,
-    "forks_count": 839
+    "stargazers_count": 17406,
+    "open_issues_count": 119,
+    "forks_count": 842
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22228,
-    "open_issues_count": 16,
-    "forks_count": 1542
+    "stargazers_count": 22265,
+    "open_issues_count": 17,
+    "forks_count": 1547
   },
   {
     "full_name": "buycoinsresearch/lpmonitor",
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 35627,
-    "open_issues_count": 58,
-    "forks_count": 5223
+    "stargazers_count": 35715,
+    "open_issues_count": 60,
+    "forks_count": 5233
   },
   {
     "full_name": "BlazeSoftware/atoms",
     "stargazers_count": 1501,
     "open_issues_count": 0,
-    "forks_count": 113
-  },
-  {
-    "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 266,
-    "open_issues_count": 0,
-    "forks_count": 54
-  },
-  {
-    "full_name": "JuanjoSalvador/cakecss",
-    "stargazers_count": 9,
-    "open_issues_count": 7,
-    "forks_count": 2
-  },
-  {
-    "full_name": "milligram/milligram",
-    "stargazers_count": 9511,
-    "open_issues_count": 52,
-    "forks_count": 588
-  },
-  {
-    "full_name": "Asabeneh/JavaScript-for-Everyone",
-    "stargazers_count": 371,
-    "open_issues_count": 0,
-    "forks_count": 162
+    "forks_count": 114
   }
 ]
