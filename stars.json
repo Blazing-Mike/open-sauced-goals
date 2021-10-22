@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "elichai/bitsign",
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "obbap1/blockstream-js-client",
+    "stargazers_count": 7,
+    "open_issues_count": 8,
+    "forks_count": 0
+  },
+  {
     "full_name": "yorkie/rust.js",
     "stargazers_count": 143,
     "open_issues_count": 4,
@@ -13,7 +25,7 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 911,
+    "stargazers_count": 913,
     "open_issues_count": 0,
     "forks_count": 177
   },
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "ElementsProject/elements",
-    "stargazers_count": 822,
+    "stargazers_count": 823,
     "open_issues_count": 130,
-    "forks_count": 337
+    "forks_count": 339
   },
   {
     "full_name": "renepickhardt/The-Lightning-Network-Book",
@@ -67,14 +79,14 @@
   },
   {
     "full_name": "jklepatch/eattheblocks",
-    "stargazers_count": 2215,
+    "stargazers_count": 2226,
     "open_issues_count": 87,
-    "forks_count": 1881
+    "forks_count": 1890
   },
   {
     "full_name": "btcontract/wallet",
-    "stargazers_count": 111,
-    "open_issues_count": 7,
+    "stargazers_count": 112,
+    "open_issues_count": 6,
     "forks_count": 63
   },
   {
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "jonatack/bitcoin-development",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 5,
     "forks_count": 28
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15969,
+    "stargazers_count": 15972,
     "open_issues_count": 33,
-    "forks_count": 915
+    "forks_count": 914
   },
   {
     "full_name": "rust-cc/awesome-cryptography-rust",
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 17411,
-    "open_issues_count": 119,
-    "forks_count": 842
+    "stargazers_count": 17430,
+    "open_issues_count": 120,
+    "forks_count": 843
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22278,
+    "stargazers_count": 22311,
     "open_issues_count": 16,
-    "forks_count": 1547
+    "forks_count": 1548
   },
   {
     "full_name": "buycoinsresearch/lpmonitor",
@@ -166,17 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 35745,
-    "open_issues_count": 61,
-    "forks_count": 5235
-  },
-  {
-    "full_name": "BlazeSoftware/atoms",
-    "stargazers_count": 1501,
-    "open_issues_count": 0,
-    "forks_count": 114
   }
 ]
