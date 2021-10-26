@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "mercyharbo/myShoppingList",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "amiller/tinybitcoinpeer",
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "willcl-ark/tinybitcoinpeer",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "elichai/bitsign",
     "stargazers_count": 11,
     "open_issues_count": 1,
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "ElementsProject/elements",
-    "stargazers_count": 823,
+    "stargazers_count": 825,
     "open_issues_count": 131,
     "forks_count": 339
   },
@@ -79,21 +97,21 @@
   },
   {
     "full_name": "jklepatch/eattheblocks",
-    "stargazers_count": 2231,
+    "stargazers_count": 2244,
     "open_issues_count": 87,
-    "forks_count": 1891
+    "forks_count": 1903
   },
   {
     "full_name": "btcontract/wallet",
-    "stargazers_count": 112,
-    "open_issues_count": 7,
+    "stargazers_count": 113,
+    "open_issues_count": 6,
     "forks_count": 63
   },
   {
     "full_name": "ethereum/wiki",
-    "stargazers_count": 13915,
+    "stargazers_count": 13921,
     "open_issues_count": 34,
-    "forks_count": 2514
+    "forks_count": 2515
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -121,8 +139,8 @@
   },
   {
     "full_name": "bitcoin-resources/bitcoin-resources.github.io",
-    "stargazers_count": 26,
-    "open_issues_count": 28,
+    "stargazers_count": 27,
+    "open_issues_count": 29,
     "forks_count": 12
   },
   {
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15974,
+    "stargazers_count": 15985,
     "open_issues_count": 33,
     "forks_count": 915
   },
@@ -145,37 +163,19 @@
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 17436,
+    "stargazers_count": 17467,
     "open_issues_count": 120,
-    "forks_count": 844
+    "forks_count": 847
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22318,
-    "open_issues_count": 16,
-    "forks_count": 1549
+    "stargazers_count": 22350,
+    "open_issues_count": 14,
+    "forks_count": 1550
   },
   {
     "full_name": "buycoinsresearch/lpmonitor",
     "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "hello-rust/show",
-    "stargazers_count": 288,
-    "open_issues_count": 38,
-    "forks_count": 20
-  },
-  {
-    "full_name": "vunderkind/learning-threejs",
-    "stargazers_count": 2,
-    "open_issues_count": 8,
-    "forks_count": 1
-  },
-  {
-    "full_name": "vunderkind/favoriteContracts",
-    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 1
   }
