@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "dannydeezy/bitcoin-book",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "Blazing-Mike/Monogram-Frontend-starter-files",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "zero-to-mastery/JS_Fun_Practice",
+    "stargazers_count": 278,
+    "open_issues_count": 5,
+    "forks_count": 353
+  },
+  {
+    "full_name": "indutny/elliptic",
+    "stargazers_count": 1322,
+    "open_issues_count": 101,
+    "forks_count": 319
+  },
+  {
+    "full_name": "bitcoinjs/bip39",
+    "stargazers_count": 691,
+    "open_issues_count": 8,
+    "forks_count": 340
+  },
+  {
+    "full_name": "wongmjane/snake-pong",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "t-bast/lightning-docs",
+    "stargazers_count": 61,
+    "open_issues_count": 2,
+    "forks_count": 13
+  },
+  {
+    "full_name": "atapas/webapis-playground",
+    "stargazers_count": 96,
+    "open_issues_count": 22,
+    "forks_count": 32
+  },
+  {
     "full_name": "mercyharbo/myShoppingList",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -43,7 +91,7 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 916,
+    "stargazers_count": 917,
     "open_issues_count": 0,
     "forks_count": 177
   },
@@ -79,15 +127,15 @@
   },
   {
     "full_name": "BlockchainCommons/Bitcoin-Standup-Scripts",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 7,
     "forks_count": 30
   },
   {
     "full_name": "ElementsProject/elements",
-    "stargazers_count": 826,
+    "stargazers_count": 827,
     "open_issues_count": 131,
-    "forks_count": 339
+    "forks_count": 340
   },
   {
     "full_name": "renepickhardt/The-Lightning-Network-Book",
@@ -97,27 +145,21 @@
   },
   {
     "full_name": "jklepatch/eattheblocks",
-    "stargazers_count": 2256,
+    "stargazers_count": 2269,
     "open_issues_count": 87,
-    "forks_count": 1910
+    "forks_count": 1926
   },
   {
     "full_name": "btcontract/wallet",
-    "stargazers_count": 113,
-    "open_issues_count": 9,
+    "stargazers_count": 116,
+    "open_issues_count": 10,
     "forks_count": 63
   },
   {
     "full_name": "ethereum/wiki",
-    "stargazers_count": 13922,
+    "stargazers_count": 13924,
     "open_issues_count": 34,
-    "forks_count": 2515
-  },
-  {
-    "full_name": "dannydeezy/bitcoin-book",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 2516
   },
   {
     "full_name": "jonatack/bitcoin-stuff",
@@ -127,7 +169,7 @@
   },
   {
     "full_name": "jonatack/bitcoin-development",
-    "stargazers_count": 125,
+    "stargazers_count": 124,
     "open_issues_count": 5,
     "forks_count": 29
   },
@@ -136,47 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "bitcoin-resources/bitcoin-resources.github.io",
-    "stargazers_count": 27,
-    "open_issues_count": 29,
-    "forks_count": 12
-  },
-  {
-    "full_name": "mykeels/ArraysJS",
-    "stargazers_count": 53,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "you-dont-need/You-Dont-Need-JavaScript",
-    "stargazers_count": 15987,
-    "open_issues_count": 33,
-    "forks_count": 915
-  },
-  {
-    "full_name": "rust-cc/awesome-cryptography-rust",
-    "stargazers_count": 112,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "yewstack/yew",
-    "stargazers_count": 17479,
-    "open_issues_count": 120,
-    "forks_count": 848
-  },
-  {
-    "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 22368,
-    "open_issues_count": 14,
-    "forks_count": 1553
-  },
-  {
-    "full_name": "buycoinsresearch/lpmonitor",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
