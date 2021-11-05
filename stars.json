@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "andy-piccalilli/beedle",
+    "stargazers_count": 358,
+    "open_issues_count": 38,
+    "forks_count": 37
+  },
+  {
+    "full_name": "Buckcli/Buck-python",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "didicodes/javascript-dev-bookmarks",
+    "stargazers_count": 354,
+    "open_issues_count": 1,
+    "forks_count": 60
+  },
+  {
+    "full_name": "hnasr/javascript-by-example",
+    "stargazers_count": 6,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
+    "full_name": "interledger/rafiki",
+    "stargazers_count": 61,
+    "open_issues_count": 37,
+    "forks_count": 4
+  },
+  {
+    "full_name": "ssaleem/Front-End-Practice",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "cryptoeconomics-hub/cryptoeconomics-reading-list",
     "stargazers_count": 32,
     "open_issues_count": 1,
@@ -13,7 +49,7 @@
   },
   {
     "full_name": "nguyenphuminh/JeChain",
-    "stargazers_count": 65,
+    "stargazers_count": 68,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -33,13 +69,13 @@
     "full_name": "zero-to-mastery/JS_Fun_Practice",
     "stargazers_count": 279,
     "open_issues_count": 4,
-    "forks_count": 355
+    "forks_count": 353
   },
   {
     "full_name": "indutny/elliptic",
-    "stargazers_count": 1323,
+    "stargazers_count": 1324,
     "open_issues_count": 101,
-    "forks_count": 319
+    "forks_count": 320
   },
   {
     "full_name": "bitcoinjs/bip39",
@@ -55,15 +91,15 @@
   },
   {
     "full_name": "t-bast/lightning-docs",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "atapas/webapis-playground",
-    "stargazers_count": 113,
-    "open_issues_count": 23,
-    "forks_count": 37
+    "stargazers_count": 114,
+    "open_issues_count": 25,
+    "forks_count": 38
   },
   {
     "full_name": "mercyharbo/myShoppingList",
@@ -109,7 +145,7 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 920,
+    "stargazers_count": 921,
     "open_issues_count": 0,
     "forks_count": 177
   },
@@ -142,41 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "BlockchainCommons/Bitcoin-Standup-Scripts",
-    "stargazers_count": 32,
-    "open_issues_count": 7,
-    "forks_count": 31
-  },
-  {
-    "full_name": "ElementsProject/elements",
-    "stargazers_count": 830,
-    "open_issues_count": 131,
-    "forks_count": 341
-  },
-  {
-    "full_name": "renepickhardt/The-Lightning-Network-Book",
-    "stargazers_count": 150,
-    "open_issues_count": 10,
-    "forks_count": 20
-  },
-  {
-    "full_name": "jklepatch/eattheblocks",
-    "stargazers_count": 2298,
-    "open_issues_count": 88,
-    "forks_count": 1944
-  },
-  {
-    "full_name": "btcontract/wallet",
-    "stargazers_count": 118,
-    "open_issues_count": 10,
-    "forks_count": 64
-  },
-  {
-    "full_name": "ethereum/wiki",
-    "stargazers_count": 13938,
-    "open_issues_count": 34,
-    "forks_count": 2519
   }
 ]
