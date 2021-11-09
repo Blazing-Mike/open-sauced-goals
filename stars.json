@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mit-dci/dlc-oracle-nodejs-samples",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "andy-piccalilli/beedle",
     "stargazers_count": 358,
     "open_issues_count": 38,
@@ -19,14 +25,14 @@
   },
   {
     "full_name": "hnasr/javascript-by-example",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "interledger/rafiki",
-    "stargazers_count": 62,
-    "open_issues_count": 38,
+    "stargazers_count": 64,
+    "open_issues_count": 41,
     "forks_count": 4
   },
   {
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "nguyenphuminh/JeChain",
-    "stargazers_count": 69,
+    "stargazers_count": 80,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 15
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
-    "stargazers_count": 281,
+    "stargazers_count": 294,
     "open_issues_count": 4,
-    "forks_count": 353
+    "forks_count": 354
   },
   {
     "full_name": "indutny/elliptic",
-    "stargazers_count": 1324,
+    "stargazers_count": 1325,
     "open_issues_count": 101,
     "forks_count": 320
   },
   {
     "full_name": "bitcoinjs/bip39",
-    "stargazers_count": 691,
+    "stargazers_count": 692,
     "open_issues_count": 8,
-    "forks_count": 339
+    "forks_count": 341
   },
   {
     "full_name": "wongmjane/snake-pong",
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "t-bast/lightning-docs",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "atapas/webapis-playground",
-    "stargazers_count": 115,
+    "stargazers_count": 118,
     "open_issues_count": 25,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "mercyharbo/myShoppingList",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 922,
+    "stargazers_count": 923,
     "open_issues_count": 0,
     "forks_count": 177
   },
@@ -163,18 +169,12 @@
   },
   {
     "full_name": "vbuterin/blogmaker",
-    "stargazers_count": 62,
+    "stargazers_count": 64,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "christopherjael/time-tracking-dashboard--solution",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "abiodunolunu/buy-coins-challenge",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
