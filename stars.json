@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vunderkind/ethereum-dappiverse",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "mit-dci/dlc-oracle-nodejs-samples",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -21,7 +27,7 @@
     "full_name": "didicodes/javascript-dev-bookmarks",
     "stargazers_count": 354,
     "open_issues_count": 1,
-    "forks_count": 60
+    "forks_count": 59
   },
   {
     "full_name": "hnasr/javascript-by-example",
@@ -32,7 +38,7 @@
   {
     "full_name": "interledger/rafiki",
     "stargazers_count": 64,
-    "open_issues_count": 40,
+    "open_issues_count": 39,
     "forks_count": 4
   },
   {
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "nguyenphuminh/JeChain",
-    "stargazers_count": 84,
+    "stargazers_count": 89,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
-    "stargazers_count": 294,
+    "stargazers_count": 296,
     "open_issues_count": 4,
-    "forks_count": 354
+    "forks_count": 353
   },
   {
     "full_name": "indutny/elliptic",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "bitcoinjs/bip39",
-    "stargazers_count": 693,
+    "stargazers_count": 695,
     "open_issues_count": 8,
     "forks_count": 342
   },
@@ -97,14 +103,14 @@
   },
   {
     "full_name": "t-bast/lightning-docs",
-    "stargazers_count": 65,
+    "stargazers_count": 67,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "atapas/webapis-playground",
-    "stargazers_count": 119,
-    "open_issues_count": 25,
+    "stargazers_count": 121,
+    "open_issues_count": 24,
     "forks_count": 39
   },
   {
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 929,
+    "stargazers_count": 939,
     "open_issues_count": 0,
     "forks_count": 177
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 64,
     "open_issues_count": 1,
     "forks_count": 9
-  },
-  {
-    "full_name": "christopherjael/time-tracking-dashboard--solution",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
