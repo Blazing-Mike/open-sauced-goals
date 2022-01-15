@@ -7,7 +7,7 @@
   },
   {
     "full_name": "nakov/Practical-Cryptography-for-Developers-Book",
-    "stargazers_count": 2420,
+    "stargazers_count": 2419,
     "open_issues_count": 43,
     "forks_count": 261
   },
@@ -26,8 +26,8 @@
   {
     "full_name": "hankchizljaw/beedle",
     "stargazers_count": 363,
-    "open_issues_count": 38,
-    "forks_count": 39
+    "open_issues_count": 39,
+    "forks_count": 38
   },
   {
     "full_name": "Buckcli/Buck-python",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "interledger/rafiki",
-    "stargazers_count": 73,
-    "open_issues_count": 39,
+    "stargazers_count": 74,
+    "open_issues_count": 35,
     "forks_count": 5
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "nguyenphuminh/JeChain",
-    "stargazers_count": 119,
-    "open_issues_count": 0,
-    "forks_count": 24
+    "stargazers_count": 122,
+    "open_issues_count": 1,
+    "forks_count": 25
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "indutny/elliptic",
-    "stargazers_count": 1353,
-    "open_issues_count": 102,
-    "forks_count": 330
+    "stargazers_count": 1358,
+    "open_issues_count": 103,
+    "forks_count": 332
   },
   {
     "full_name": "bitcoinjs/bip39",
-    "stargazers_count": 741,
+    "stargazers_count": 743,
     "open_issues_count": 12,
-    "forks_count": 350
+    "forks_count": 351
   },
   {
     "full_name": "wongmjane/snake-pong",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "yorkie/rust.js",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 4,
     "forks_count": 8
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 1041,
+    "stargazers_count": 1050,
     "open_issues_count": 0,
-    "forks_count": 201
+    "forks_count": 203
   },
   {
     "full_name": "bitcoin-studio/LightningNespressoUI",
     "stargazers_count": 3,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 1
   }
 ]
