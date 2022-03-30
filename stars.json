@@ -7,7 +7,7 @@
   },
   {
     "full_name": "nakov/Practical-Cryptography-for-Developers-Book",
-    "stargazers_count": 2475,
+    "stargazers_count": 2477,
     "open_issues_count": 43,
     "forks_count": 272
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "interledger/rafiki",
-    "stargazers_count": 89,
-    "open_issues_count": 52,
+    "stargazers_count": 90,
+    "open_issues_count": 53,
     "forks_count": 10
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "nguyenphuminh/JeChain",
-    "stargazers_count": 137,
-    "open_issues_count": 0,
-    "forks_count": 33
+    "stargazers_count": 138,
+    "open_issues_count": 1,
+    "forks_count": 34
   },
   {
     "full_name": "dannydeezy/bitcoin-book",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
-    "stargazers_count": 390,
-    "open_issues_count": 20,
-    "forks_count": 383
+    "stargazers_count": 392,
+    "open_issues_count": 22,
+    "forks_count": 384
   },
   {
     "full_name": "indutny/elliptic",
-    "stargazers_count": 1390,
+    "stargazers_count": 1391,
     "open_issues_count": 109,
     "forks_count": 336
   },
   {
     "full_name": "bitcoinjs/bip39",
-    "stargazers_count": 778,
+    "stargazers_count": 782,
     "open_issues_count": 12,
     "forks_count": 373
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "t-bast/lightning-docs",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 2,
     "forks_count": 22
   },
@@ -152,7 +152,7 @@
   {
     "full_name": "obbap1/blockstream-js-client",
     "stargazers_count": 7,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 0
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "jpantunes/awesome-cryptoeconomics",
-    "stargazers_count": 1211,
+    "stargazers_count": 1216,
     "open_issues_count": 0,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "bitcoin-studio/LightningNespressoUI",
     "stargazers_count": 3,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 1
   }
 ]
